@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.flutterverse.app-mergeDebugResources-39:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.example.flutterverse.app-mergeDebugResources-46:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/Trapti/.gradle/caches/transforms-3/889ae3adf7a24645889ee22f4dad2cac/transformed/core-1.13.1/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/Users/Trapti/.gradle/caches/transforms-3/b2884dbf4ee3398b2907745768baeed2/transformed/core-1.13.1/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/Trapti/.gradle/caches/transforms-3/6ddfe7bc5a026c54878de2bc1391ef46/transformed/appcompat-1.1.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/Users/Trapti/.gradle/caches/transforms-3/d4c03f8eccf892b96fd6fc8b065707c2/transformed/appcompat-1.1.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/Trapti/.gradle/caches/transforms-3/047aa7ddff6241681155a5178fa0e58d/transformed/preference-1.2.1/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/Users/Trapti/.gradle/caches/transforms-3/68e142ef8359c595e6a0cf974c40276a/transformed/preference-1.2.1/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

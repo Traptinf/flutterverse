@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "290776800756",
+    "project_id": "blocauth-a376f",
+    "storage_bucket": "blocauth-a376f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290776800756:android:a140b1f9acb2744d1beda1",
+        "android_client_info": {
+          "package_name": "com.example.agora_voice_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmW0yW4oENWbHh1_LsMh0GYaUajAXuwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290776800756:android:c97c1ed9a4b159d31beda1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmW0yW4oENWbHh1_LsMh0GYaUajAXuwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290776800756:android:649c18924e6ffb5c1beda1",
+        "android_client_info": {
+          "package_name": "com.example.flutterverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmW0yW4oENWbHh1_LsMh0GYaUajAXuwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
