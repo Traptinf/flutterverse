@@ -3,8 +3,8 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'features/multi_language/screens/home_screen.dart';
 import 'features/multi_language/translation/app_transllations.dart';
+import 'learn_getx/first_screen.dart';
 
 Future<void> backgroundHandler(RemoteMessage message) async {
   print("Background message received: ${message.notification?.title}");
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       translations: AppTranslations(), // Add translations
       locale: Locale('en', 'US'), // Default language
       fallbackLocale: Locale('en', 'US'), // Fallback if locale is missing
-      home: HomeScreen(),
+      home: FirstScreen(),
     );
   }
 }
