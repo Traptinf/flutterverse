@@ -7,6 +7,7 @@ import 'package:get/get.dart';
 
 import 'features/multi_language/translation/app_transllations.dart';
 import 'learn_getx/first_screen.dart';
+import 'learn_getx/obx_example.dart';
 import 'learn_getx/second.dart';
 import 'learn_getx/third.dart';
 import 'learn_getx/unknown.dart';
@@ -26,7 +27,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      initialRoute: "first",
+      // initialRoute: "first",
       defaultTransition: Transition.leftToRight,
       getPages: [
         GetPage(name: "/first", page: ()=>FirstScreen()),
@@ -41,7 +42,7 @@ class MyApp extends StatelessWidget {
       translations: AppTranslations(), // Add translations
       locale: Locale('en', 'US'), // Default language
       fallbackLocale: Locale('en', 'US'), // Fallback if locale is missing
-      home: FirstScreen(),
+      home: ObxExample(),
     );
   }
 }
